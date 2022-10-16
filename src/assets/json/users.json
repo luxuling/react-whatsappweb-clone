@@ -1,0 +1,182 @@
+[{
+  "_id": {
+    "$oid": "63313cee86fe3b9b9638d2cf"
+  },
+  "isGroupChat": true,
+  "name": "Group one",
+  "email": "guebanget@gmail.com",
+  "password": "$2a$10$vrPjGbHq6ZVjHsyy8Wg/KOnvI8KhZtc5NX9uWYjl6y1p6jmVrvGjy",
+  "pic": "https://divedigital.id/wp-content/uploads/2021/10/1-min.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664171246434"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664171246434"
+    }
+  },
+  "__v": 0
+},
+  {
+  "_id": {
+    "$oid": "63313cee86fe3b9b9638d2cf"
+  },
+  "isGroupChat": false,
+  "name": "aya",
+  "email": "guebanget@gmail.com",
+  "password": "$2a$10$vrPjGbHq6ZVjHsyy8Wg/KOnvI8KhZtc5NX9uWYjl6y1p6jmVrvGjy",
+  "pic": "https://divedigital.id/wp-content/uploads/2021/10/1-min.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664171246434"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664171246434"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63313d3686fe3b9b9638d2d9"
+  },
+  "isGroupChat": false,
+  "name": "ayanokoji",
+  "email": "guebanget112@gmail.com",
+  "password": "$2a$10$armlKojP.c6.ZJBqmdUi1u2yscJjrGwW3QchRPLaSX/JG7P8R6FTa",
+  "pic": "http://res.cloudinary.com/lixuling/image/upload/v1664171320/q9yzpaopn7a92bcx8xfv.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664171318498"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664171318498"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63313dbf86fe3b9b9638d2e0"
+  },
+  "isGroupChat": false,
+  "name": "kei babu",
+  "email": "kei@gmail.com",
+  "password": "$2a$10$vmOuzRp7PasCWVPPvi35ku6JGWCIToGuDCtea0bXPWNNGLnKoojJa",
+  "pic": "http://res.cloudinary.com/lixuling/image/upload/v1664171454/hobxxevn1htzu8ljdzh9.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664171455809"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664171455809"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63405536a6fb91b1fc462207"
+  },
+  "isGroupChat": false,
+  "name": "LixuLing",
+  "email": "lixu@gmail.com",
+  "password": "$2a$10$FzM8holmtNznHEOteiLCo.6hF3AsR0CERBwh/ajsUyWPoQaF1fG0S",
+  "pic": "https://divedigital.id/wp-content/uploads/2021/10/1-min.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665160502143"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665160502143"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6340e844c64877b0cd5bb4cd"
+  },
+  "isGroupChat": false,
+  "name": "Bapak kau",
+  "email": "syuu@gmail.com",
+  "password": "$2a$10$eTVws8RBmfx1Ax78vEYVOOeDIBEeRz6Tf238kMl2Q8tVcn3iOh0Iq",
+  "pic": "https://divedigital.id/wp-content/uploads/2021/10/1-min.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665198148841"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665198148841"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6340f7e8271abc2371307cbe"
+  },
+  "isGroupChat": false,
+  "name": "Yamaihsan Arindo",
+  "email": "yamaihsan@gmail.com",
+  "password": "$2a$10$PACGksBO25Is9wvve9l7dui6oCpoFsM9IVkpEJT2Tl1T/zEK/e0xm",
+  "pic": "https://divedigital.id/wp-content/uploads/2021/10/1-min.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665202152858"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665202152858"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63414833735bbde049d00840"
+  },
+  "isGroupChat": false,
+  "name": "Toni",
+  "email": "blablabla@gmail.com",
+  "password": "$2a$10$w6nFNoNpO8rz6ZaSmXrseu/hs6d7hwL7Q1ccYBw.gnbe5SXFvV4iu",
+  "pic": "https://divedigital.id/wp-content/uploads/2021/10/1-min.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665222707385"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665222707385"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63416b23735bbde049d00a4d"
+  },
+  "isGroupChat": false,
+  "name": "Sayang",
+  "email": "urwahazzubairy2708@gmail.com",
+  "password": "$2a$10$d.t4t8y7.Hx1Jjl4G9BoUeEuPhSJQ0.u9COAlYobGPLRwF1VonkBq",
+  "pic": "https://divedigital.id/wp-content/uploads/2021/10/1-min.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665231651240"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665231651240"
+    }
+  },
+  "__v": 0
+}]

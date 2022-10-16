@@ -1,0 +1,455 @@
+[{
+  "_id": {
+    "$oid": "63313dde86fe3b9b9638d2eb"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63313d3686fe3b9b9638d2d9"
+    },
+    {
+      "$oid": "63313dbf86fe3b9b9638d2e0"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664171486762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665238265116"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "634184f8aca2940c6053e68a"
+  }
+},{
+  "_id": {
+    "$oid": "63313def86fe3b9b9638d2f6"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63313d3686fe3b9b9638d2d9"
+    },
+    {
+      "$oid": "63313cee86fe3b9b9638d2cf"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664171503041"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664780190279"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "633a879d5542c71d6d6be3b8"
+  }
+},{
+  "_id": {
+    "$oid": "633146d79e6f3bf400520c07"
+  },
+  "chatName": "renamed group",
+  "isGroupChat": true,
+  "users": [
+    {
+      "$oid": "63313dbf86fe3b9b9638d2e0"
+    },
+    {
+      "$oid": "63313cee86fe3b9b9638d2cf"
+    }
+  ],
+  "groupAdmin": {
+    "$oid": "63313d3686fe3b9b9638d2d9"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664173783221"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665198018567"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "633af0cf028e039f69120c81"
+  }
+},{
+  "_id": {
+    "$oid": "633a627b3395ac63615580be"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63313dbf86fe3b9b9638d2e0"
+    },
+    {
+      "$oid": "63313cee86fe3b9b9638d2cf"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664770683688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664770683688"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633aeaf568fd3a683e43f8aa"
+  },
+  "chatName": "second group",
+  "isGroupChat": true,
+  "users": [
+    {
+      "$oid": "63313cee86fe3b9b9638d2cf"
+    },
+    {
+      "$oid": "63313dbf86fe3b9b9638d2e0"
+    },
+    {
+      "$oid": "63313d3686fe3b9b9638d2d9"
+    }
+  ],
+  "groupAdmin": {
+    "$oid": "63313d3686fe3b9b9638d2d9"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664805621749"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665154368007"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "63403d3f96e7d62d087768aa"
+  }
+},{
+  "_id": {
+    "$oid": "63405548a6fb91b1fc46220f"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63405536a6fb91b1fc462207"
+    },
+    {
+      "$oid": "63313dbf86fe3b9b9638d2e0"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665160520963"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665163175151"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "63405fa6e3bec9c0fb19be62"
+  }
+},{
+  "_id": {
+    "$oid": "6340e85fc64877b0cd5bb4d5"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "6340e844c64877b0cd5bb4cd"
+    },
+    {
+      "$oid": "63313d3686fe3b9b9638d2d9"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665198175620"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665230197822"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "63416575735bbde049d00a40"
+  }
+},{
+  "_id": {
+    "$oid": "6340f806271abc2371307cd9"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "6340f7e8271abc2371307cbe"
+    },
+    {
+      "$oid": "63313d3686fe3b9b9638d2d9"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665202182581"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665202248884"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "6340f848271abc2371307cf9"
+  }
+},{
+  "_id": {
+    "$oid": "6340f895271abc2371307d07"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "6340f7e8271abc2371307cbe"
+    },
+    {
+      "$oid": "63313cee86fe3b9b9638d2cf"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665202325266"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665229974031"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "63416495735bbde049d0091b"
+  }
+},{
+  "_id": {
+    "$oid": "6341489d735bbde049d00848"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63414833735bbde049d00840"
+    },
+    {
+      "$oid": "6340e844c64877b0cd5bb4cd"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665222813899"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665231750626"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "63416b85d29999762fca9f29"
+  }
+},{
+  "_id": {
+    "$oid": "634163e2735bbde049d008d3"
+  },
+  "chatName": "Calon pemuda sukses v2.0",
+  "isGroupChat": true,
+  "users": [
+    {
+      "$oid": "63414833735bbde049d00840"
+    },
+    {
+      "$oid": "6340e844c64877b0cd5bb4cd"
+    },
+    {
+      "$oid": "6340f7e8271abc2371307cbe"
+    }
+  ],
+  "groupAdmin": {
+    "$oid": "6340e844c64877b0cd5bb4cd"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665229794589"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665231732553"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "63416b73d29999762fca9f17"
+  }
+},{
+  "_id": {
+    "$oid": "634164a2735bbde049d00935"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "6340e844c64877b0cd5bb4cd"
+    },
+    {
+      "$oid": "6340f7e8271abc2371307cbe"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665229986904"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665230118820"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "63416526735bbde049d009e8"
+  }
+},{
+  "_id": {
+    "$oid": "63416b51735bbde049d00a57"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63416b23735bbde049d00a4d"
+    },
+    {
+      "$oid": "63414833735bbde049d00840"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665231697916"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665270212136"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "634201c3882bdbf95a053d93"
+  }
+},{
+  "_id": {
+    "$oid": "63416cb5d29999762fca9f5a"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63416b23735bbde049d00a4d"
+    },
+    {
+      "$oid": "6340e844c64877b0cd5bb4cd"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665232053514"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665232053514"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63416cb5d29999762fca9f5c"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63416b23735bbde049d00a4d"
+    },
+    {
+      "$oid": "6340e844c64877b0cd5bb4cd"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665232053520"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665248523392"
+    }
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "6341ad0a882bdbf95a053d75"
+  }
+},{
+  "_id": {
+    "$oid": "634183bdd29999762fca9faa"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63313d3686fe3b9b9638d2d9"
+    },
+    {
+      "$oid": "63416b23735bbde049d00a4d"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665237949247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665237949247"
+    }
+  },
+  "__v": 0
+}]
